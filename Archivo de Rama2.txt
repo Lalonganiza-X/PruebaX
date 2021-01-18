@@ -1,3 +1,1 @@
-Contenido para la rama2
-
 Modificando el contenido de la rama main
