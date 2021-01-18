@@ -1,1 +1,6 @@
 Modificando el contenido de la rama main
+Contenido para la rama2
+
+
+
+Nuevo contenido agregado en Rama2
